@@ -129,9 +129,7 @@ This repository contains a structured learning path for mastering both frontend 
 ### 24. Kafka
 - [Kafka Tutorial](https://youtu.be/ZJJHm_bd9Zo?si=ITSIp8St2VzvU4F0)
 
-### 25
-
-. Golang
+### 25. Golang
 - [Golang Tutorial - Playlist 1](https://youtube.com/playlist?list=PLXQpH_kZIxTWUe-Ee-DZEX5gfeoo4tHV6)
 - [Golang Tutorial - Playlist 2](https://youtu.be/un6ZyFkqFKo?si=3MH2KXLhn9LWq0hf)
 
